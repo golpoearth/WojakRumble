@@ -49,7 +49,7 @@ WojakRumble/
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/WojakRumble.git
+git clone https://github.com/golpoearth/WojakRumble.git
 cd WojakRumble
 ```
 
